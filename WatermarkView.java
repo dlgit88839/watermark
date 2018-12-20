@@ -30,7 +30,7 @@ public class WatermarkView extends View {
     private float strokeWidth = 2f;
     private Paint mPaint;
     private float textSize = 20f;
-    private String content = "定福庄西街店123456";//水印内容
+    private String content = "test";//水印内容
     private int width, height;
     private int showType = 0; //0重复排列 1只有一个居中
     private int rotate=30;//旋转角度  -90到90度 默认30度
